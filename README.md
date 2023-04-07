@@ -1,1 +1,1 @@
-# 98-google
+# 98-google web page, patika.dev
